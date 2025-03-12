@@ -26,8 +26,8 @@ News:
 The code in this repo supports Pansharpening.
 
 <center>
-<img src="figs/WFANet.png" width="80%">
-<img src="figs/MFFA.png" width="80%">
+<img src="figs/ADWM.png" width="80%">
+<img src="figs/CACW.png" width="80%">
 </center>
 
 # Instructions
