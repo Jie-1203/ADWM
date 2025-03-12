@@ -17,7 +17,7 @@ We use the covariance matrix to model the feature heterogeneity and redundancy a
 </p>
 
 News:
-- 2025/2/7：**Code RELEASED!**:fire: 
+<!-- ```- 2025/2/7：**Code RELEASED!**:fire: ``` -->
 
 - 2025/3/12: **Code will be released soon!**:fire: 
 
