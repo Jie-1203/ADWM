@@ -1,10 +1,10 @@
 # A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening [CVPR 2025]
 
-<!-- <div style="text-align: center;">
+<div style="text-align: center;">
   <a href="https://www.arxiv.org/">
     <img src="https://img.shields.io/badge/arXiv-red.svg?style=flat" alt="ArXiv">
   </a>
-    <a href="https://arxiv.org/abs/2404.11537">Arxiv</a>
+    <a href="https://arxiv.org/pdf/2503.13214">Arxiv</a>
     <!-- <img class="nips-logo" src="https://neurips.cc/static/core/img/NeurIPS-logo.svg" alt="NeurIPS logo" height="25" width="58">
     <a href="https://openreview.net/pdf?id=QMVydwvrx7">NeurIPS 2024 -->
 </div> 
