@@ -34,19 +34,23 @@ The code in this repo supports Pansharpening.
 
 ## Dataset
 
-In this office repo, you can find the Pansharpening dataset of [WV3, GF2, and QB](https://github.com/liangjiandeng/PanCollection).
+In this office repo, you can find the Pansharpening dataset of [WV3, GF2, QB and WV2](https://github.com/liangjiandeng/PanCollection).
 
-Other instructions will come soon!
 
-<!-- ## Citation
+## Convenient Access to Results and Support for Beginners
 
-If you find our paper useful, please consider citing the following: -->
+If you need to use our methods as a benchmark, there is no need to retrain the models yourself. For your convenience, we can send you the complete mat files for WV3, GF2, QB, and WV2. In addition, to better support beginners, we can provide you with the source PowerPoint files containing plots from multiple papers we have collected, as well as a comprehensive writing guide.
+Due to file size limitations and data security considerations, please contact us via email (jayhuang303hh@gmail.com) if you need these resources.
 
-<!-- ```tex
-@article{zhong2024ssdiff,
-  title={SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening},
-  author={Zhong, Yu and Wu, Xiao and Deng, Liang-Jian and Cao, Zihan},
-  journal={arXiv preprint arXiv:2404.11537},
-  year={2024}
+
+
+## Citation
+
+If you find our paper useful, please consider citing the following:
+@article{huang2025general,
+  title={A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening},
+  author={Huang, Jie and Chen, Haorui and Ren, Jiaxuan and Peng, Siran and Deng, Liangjian},
+  journal={arXiv preprint arXiv:2503.13214},
+  year={2025}
 }
-``` -->
+
