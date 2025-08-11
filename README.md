@@ -38,7 +38,7 @@ In this office repo, you can find the Pansharpening dataset of [WV3, GF2, QB and
 
 ## Convenient Access to Results and Support for Beginners
 
-If you need to use our methods as a benchmark, there is no need to retrain the models yourself. For your convenience, we can send you the complete mat files for WV3, GF2, QB, and WV2. In addition, to better support beginners, we can provide you with the source PowerPoint files containing plots from multiple papers we have collected, as well as a comprehensive writing guide.
+If you need to compare with our method in your works, there is no need to retrain the models yourself. For your convenience, we can send you the complete mat files for WV3, GF2, QB, and WV2. In addition, to better support beginners, we can provide you with the source PowerPoint files containing plots from multiple papers we have collected, as well as a comprehensive writing guide.
 Due to file size limitations and data security considerations, please contact us via email (jayhuang303hh@gmail.com) if you need these resources.
 
 
